@@ -1,0 +1,22 @@
+{
+    "navbar":{
+        "home":"home",
+        "about":"about",
+        "projects":"projects",
+        "blog":"blog"
+
+    },
+    "title":{
+        "homepage":"Home Page",
+        "blog":"Blog Page",
+        "project":"Project Page"
+
+    },
+    "skills":{
+        "header":"Skills"
+      },
+    "footer":{
+        "header":"Social Media",
+        "descrb":"Designed and Developed by  Asim Safarli"
+    }
+}

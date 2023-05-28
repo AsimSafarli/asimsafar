@@ -1,0 +1,22 @@
+{
+    "navbar":{
+        "home":"anasəhifə",
+        "about":"haqqımda",
+        "projects":"proyektlər",
+        "blog":"məqalələr"
+    },
+    "title":{
+        "homepage":"Ana Səhifə",
+        "blog":"Məqalə Səhifə",
+        "project":"Proyekt Səhifə"
+    }
+    ,
+    "skills":{
+      "header":"Bacarıqlar"
+    },
+    "footer":{
+        "header":"Sosial Media",
+        "descrb":"Dizayn və Kod Asim Səfərli tərəfindən edilib."
+
+    }
+}

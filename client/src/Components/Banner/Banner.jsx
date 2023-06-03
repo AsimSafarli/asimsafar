@@ -11,7 +11,7 @@ function Banner() {
           <br /> Asperiores, ullam quam suscipit consequatur error illum?
           <br /> Adipisci assumenda tempora debitis?
         </div>
-        <div className="flex flex-row items-center gap-x-10"><button className="bg-red-800 w-20 h-8 text-slate-50">Contact</button><button className="bg-red-800 w-20 h-8 text-slate-50">Cv Yukle</button></div>
+        <div className="flex flex-row items-center gap-x-10"><button className="bg-purple-800 w-20 h-8 text-slate-50">Contact</button><button className="bg-purple-800 w-20 h-8 text-slate-50">Cv Yukle</button></div>
       </div>
       <div>
         <svg
